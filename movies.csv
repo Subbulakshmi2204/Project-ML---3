@@ -1,0 +1,9 @@
+movieId,title,genre,rating,popularity
+1,Inception,Sci-Fi,4.8,95
+2,Titanic,Romance,4.7,90
+3,Avengers,Action,4.6,92
+4,Interstellar,Sci-Fi,4.8,93
+5,Notebook,Romance,4.5,85
+6,Batman,Action,4.4,88
+7,Avatar,Sci-Fi,4.6,91
+8,Joker,Drama,4.5,89
